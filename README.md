@@ -9,3 +9,5 @@ Although this survey included a variety of interesting questions and results, th
 ## Results of the survey question
 
 ![Datawrapper chart of the seat reclining question in the FiveThirtyEight flying etiquette survey](xYaNV-is-it-rude-to-recline-your-seat-on-a-plane-.png)
+
+As seen in the chart above, from the 854 passengers that took this survey, most answered that seat reclining on an airplane is "not rude at all," with a whopping 502. On the other hand, a very small number of passengers answered by saying it is "very rude" with only 71. 
