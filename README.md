@@ -1,4 +1,4 @@
-# Part of flying etiquette survey results
+# **Part of flying etiquette survey results**
 
 This is an insight into one of the [*FiveThirtyEight*](https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey) flight etiquette survey results of whether passengers find seat reclining rude. 
 
