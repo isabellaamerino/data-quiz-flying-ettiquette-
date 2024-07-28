@@ -8,4 +8,4 @@ Although this survey included a variety of interesting questions and results, th
 
 ## Results of the survey question
 
-![Datawrapper chart of the seat reclining question in the FiveThirtyEight flying etiquette survey](
+![Datawrapper chart of the seat reclining question in the FiveThirtyEight flying etiquette survey](xYaNV-is-it-rude-to-recline-your-seat-on-a-plane-.png)
